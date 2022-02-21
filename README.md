@@ -4,13 +4,13 @@
                           
  **Docente:**     Ing. Darwin Alulema            
                     
- **Integrantes:** Mera Erick, Quilumbaquin Lenin, Vallejo Keily
+ **Integrantes:** Allauca Steven, Lucero Danilo, Manosalvas Gabriel.
                   
  **Semestre:**    Segundo
  
  **Parcial:**     3
  
- **Laboratorio Nro:**     7
+ **Laboratorio Nro:**     8
  
 ------------
 ## **TEMA:**  CARACTERÍSTICAS DE LA ONDA SENOIDAL
@@ -104,7 +104,7 @@ f: 1/0.0004 s  =  2500 (Hz)
 
 ## 4. VIDEO:
 
-https://www.youtube.com/watch?v=7zu4ozIhBtY&ab_channel=LENINQUILUMBA
+
 
 ## 5. CONCLUSIONES:
 
@@ -117,3 +117,6 @@ https://www.youtube.com/watch?v=7zu4ozIhBtY&ab_channel=LENINQUILUMBA
 
 
 ## 5. BIBLIOGRAFÍA:
+
+F. (2021). Principles Of Electric Circuits, 8Ed. Pearson
+
