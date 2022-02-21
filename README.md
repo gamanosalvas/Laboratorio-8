@@ -10,6 +10,8 @@
  
  **Parcial:**     3
  
+ **Nrc:** 10133
+ 
  **Laboratorio Nro:**     8
  
 ------------
