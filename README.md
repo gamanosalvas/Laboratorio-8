@@ -100,7 +100,7 @@ f: 1/0.0004 s  =  2500 (Hz)
 
 ![image](https://user-images.githubusercontent.com/84594486/132274500-161dbbc4-0598-460d-a27e-1f94d8a87a21.png)
 
-#### 3.3.8. Compare el voltaje medido en el punto 1.5.5. y el obtenido en el punto 1.5.7.
+#### 3.3.8. Compare el voltaje medido en el punto 7.5.5. y el obtenido en el punto 7.5.7.
 
 ¿Coinciden? No conciden porque el voltaje medido es eficaz o rms. El valor que nos da un aparto de medida tanto anlógico como digital en corriente alterna es lo que se conoce como valor rms.
 
