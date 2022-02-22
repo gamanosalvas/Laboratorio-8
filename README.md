@@ -33,7 +33,7 @@
 
 ## 2. MARCO TEÓRICO
 
-![image](https://user-images.githubusercontent.com/84594486/132274427-b932a033-d676-4b67-8e0a-4f6d3aa195fc.png)
+![image](https://user-images.githubusercontent.com/94025287/155042083-aa184a5f-d1b6-427f-8611-b16cba6354e9.png)
 
 ### 3 REQUISITOS PREVIOS.
  
